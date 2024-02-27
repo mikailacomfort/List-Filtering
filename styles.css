@@ -1,0 +1,14 @@
+body {
+  background-color: grey;
+}
+
+button {
+  box-shadow: 5px 5px 5px black;
+  background-color:#697989;
+  border-radius: 4px;
+}
+
+.box {
+  border-radius: 4px;
+  box-shadow: 5px 5px 5px black;
+}
